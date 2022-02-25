@@ -1,5 +1,5 @@
-{
-  "compilerOptions": {
+ { 
+   "compilerOptions": {
     "target": "es5",
     "module": "esnext",
     "baseUrl": "./",
@@ -16,4 +16,5 @@
       "scripthost"
     ]
   }
-}
+
+ }
